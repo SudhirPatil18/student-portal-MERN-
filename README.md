@@ -18,7 +18,7 @@ This is a robust teacher portal application built with React.js for the frontend
 - npm or yarn
 - MongoDB
 
-### Backend Setup
+### Frontend Setup
 
 1. Clone the repository:
 
@@ -26,17 +26,12 @@ This is a robust teacher portal application built with React.js for the frontend
    git clone https://github.com/SudhirPatil18/student-portal-MERN-.git
    cd teacher-portal
    
-### How to run
-###Frontend
+### How to run Frontend
 
   ```bash
 - cd teacher-portal
 - npm install
 - npm install react-router-dom react-redux axios redux redux-thunk redux-devtools-extension
 
-### Backend
 
--	cd backend
--	npm install
--	npm start
 
