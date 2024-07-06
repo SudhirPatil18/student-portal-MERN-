@@ -41,17 +41,17 @@ This is a robust teacher portal application built with React.js for the frontend
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/teacher-portal.git
+   git clone https://github.com/SudhirPatil18/student-portal-MERN-.git
    cd teacher-portal
    
 *How to run
-#Frontend
- cd teacher-portal
-   npm install
-   npm install react-router-dom react-redux axios redux redux-thunk redux-devtools-extension
+###Frontend
+- cd teacher-portal
+- npm install
+- npm install react-router-dom react-redux axios redux redux-thunk redux-devtools-extension
 
-#Backend
-•	cd backend
-•	npm install
-•	npm start
+### Backend
+-	cd backend
+-	npm install
+-	npm start
 
